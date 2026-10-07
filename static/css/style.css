@@ -1,0 +1,35 @@
+/* Paragraph and Header styling */
+p {
+    font-size: 16px;
+    color: black;
+}
+
+h2 {
+    color: darkmagenta;
+    font-size: 24px;
+}
+
+/* Table Styling, black border on table and table cells. */
+
+table {
+    border: 2px solid black;
+}
+
+th, td {
+    border: 1px solid black;
+}
+
+#brag {
+    color: darkred;
+    font-style: italic;
+}
+
+.emphasis {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+img.logo {
+    width: 267px;
+    height: 72px;
+}
