@@ -19,15 +19,21 @@ th, td {
     border: 1px solid black;
 }
 
+/* Create ID brag to be used for bragging rights. */
+
 #brag {
     color: darkred;
     font-style: italic;
 }
 
+/* Create Class emphasis to bold and underline. */
+
 .emphasis {
     font-weight: bold;
     text-decoration: underline;
 }
+
+/* Create img rule block */
 
 img.logo {
     width: 267px;
